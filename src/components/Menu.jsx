@@ -11,10 +11,10 @@ const Menu = () => {
         <Nav.Link as={NavLink} to="/" exact className="nav-link">
           Inicio
         </Nav.Link>
-        <Nav.Link as={NavLink} to="/acerca" className="nav-link">
-          Acerca de
+        <Nav.Link as={NavLink} to="/TypeScript" className="nav-link">
+          Everydaytypes
         </Nav.Link>
-        <Nav.Link as={NavLink} to="/servicios" className="nav-link">
+        <Nav.Link as={NavLink} to="/Contador" className="nav-link">
           Servicios
         </Nav.Link>
         <Nav.Link as={NavLink} to="/contacto" className="nav-link">
